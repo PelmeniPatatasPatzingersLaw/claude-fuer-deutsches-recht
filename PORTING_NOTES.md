@@ -179,3 +179,33 @@ Folgende **nicht offiziell dokumentierte** Strukturen/Felder wurden **bewusst ni
 - \u2705 Keine undokumentierten Felder
 - \u2705 Dateizugriff auf referenzierte Dateien m\u00f6glich
 - \u26a0\ufe0f CLI-Funktionstest nicht m\u00f6glich (Umgebungsproblem)
+
+---
+
+## 🔧 Reparatur von Namenskollisionen
+
+### Problem
+Bei der flachen Migration der Skills aus den beiden Staatsanwaltschaft-Plugins wurden zwei Namenskollisionen identifiziert:
+- `99-finale-entscheidung-volltext`
+- `prozessuale-kniffe-und-rechtsprechungsanker`
+
+Beide Kollisionen betrafen **inhaltlich unterschiedliche Versionen** aus:
+- Plugin A: `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/`
+- Plugin B: `gerichtsplugins/staatsanwaltschaft-praxis-einstieg/`
+
+### Lösung
+- Die Plugin-B-Versionen blieben unter den ursprünglichen Namen erhalten
+- Die Plugin-A-Versionen wurden zusätzlich mit Namespace-Präfix `amtsanwaltschaft-` angelegt
+- **Kein Informationsverlust** – beide Varianten sind nun verfügbar
+
+### Neue Skills
+- `.vibe/skills/amtsanwaltschaft-99-finale-entscheidung-volltext/` (aus Plugin A)
+- `.vibe/skills/amtsanwaltschaft-prozessuale-kniffe-und-rechtsprechungsanker/` (aus Plugin A)
+
+### Validierung
+- 2 Namenskollisionen erkannt
+- beide Originalvarianten waren inhaltlich unterschiedlich
+- Plugin-B-Version blieb unter ursprünglichem Namen
+- Plugin-A-Version zusätzlich namespaced angelegt
+- kein fachlicher Inhalt gelöscht
+- Zielstruktur enthält nun 176 Skill-Verzeichnisse
