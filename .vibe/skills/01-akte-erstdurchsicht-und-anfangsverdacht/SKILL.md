@@ -1,6 +1,7 @@
 ---
 name: 01-akte-erstdurchsicht-und-anfangsverdacht
 description: "Wenn es um 01 Akte-Erstdurchsicht und Anfangsverdacht in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+user-invocable: true
 ---
 
 # 01 Akte-Erstdurchsicht und Anfangsverdacht
