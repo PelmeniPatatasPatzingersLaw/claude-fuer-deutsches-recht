@@ -134,3 +134,38 @@
 - **Zugriff auf ben\u00f6tigte Repository-Dateien funktioniert:** \u2705 JA
 - **Vertrauens-/Konfigurationsproblem vorhanden:** \u2705 NEIN
 - **Fachlicher Inhalt ver\u00e4ndert:** \u2705 NEIN
+
+---
+
+## 🔄 Reparatur von Namenskollisionen
+
+### Hintergrund
+Bei der flachen Migration der Skills aus `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/` und `gerichtsplugins/staatsanwaltschaft-praxis-einstieg/` wurden zwei Namenskollisionen erkannt:
+
+- `99-finale-entscheidung-volltext`
+- `prozessuale-kniffe-und-rechtsprechungsanker`
+
+### Analyse
+Beide Originalversionen waren **inhaltlich unterschiedlich**:
+
+1. **99-finale-entscheidung-volltext**
+   - Plugin A (Amtsanwaltschaft): Fokus auf Entwurfserstellung (Sachverhalt, Norm, Beweis, Antrag) für Anklageschrift/Strafbefehl/Einstellungsverfügung
+   - Plugin B (Praxis-Einstieg): Fokus auf Rolle, Ziel, Frist, Unterlagen, nächsten Fachskill mit Fristenampel
+
+2. **prozessuale-kniffe-und-rechtsprechungsanker**
+   - Plugin A (Amtsanwaltschaft): Prüft Frist, Form, Zuständigkeit, Rechtsweg, Sofortmaßnahmen
+   - Plugin B (Praxis-Einstieg): Klärt Rolle, Ziel, Frist, Unterlagen, nächsten Fachskill
+
+### Lösung
+- Plugin-B-Version blieb unter ursprünglichem Namen erhalten (byte-identisch)
+- Plugin-A-Version zusätzlich mit **Namespace-Präfix** `amtsanwaltschaft-` angelegt
+- **Kein fachlicher Inhalt gelöscht**
+
+### Neue Skill-Verzeichnisse
+- `.vibe/skills/amtsanwaltschaft-99-finale-entscheidung-volltext/`
+- `.vibe/skills/amtsanwaltschaft-prozessuale-kniffe-und-rechtsprechungsanker/`
+
+### Ergebnis
+- **Zielstruktur enthält nun 176 Skill-Verzeichnisse** (vorher: 174)
+- Alle Originalinhalte sind erhalten
+- Keine bestehenden Skills wurden verändert
