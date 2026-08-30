@@ -1,6 +1,7 @@
 ---
 name: 10-einstellung-mangels-tatverdacht-paragraf-170
 description: "Wenn es um 10 Einstellung Mangels Tatverdacht Paragraf 170 in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+user-invocable: true
 ---
 
 # 10 Einstellung Mangels Tatverdacht Paragraf 170
