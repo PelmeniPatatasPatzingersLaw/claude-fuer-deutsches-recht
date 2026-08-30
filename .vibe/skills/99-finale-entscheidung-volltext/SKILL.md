@@ -1,19 +1,19 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: "Wenn es um Finale Entscheidung Volltext in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Wenn es um Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft) in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
 ---
 
-# Finale Entscheidung als Volltext (Anklageschrift, Strafbefehlsantrag oder Einstellungsverfügung)
+# Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft)
 
 ## Zweck
 
 Dieser Skill erzeugt die staatsanwaltschaftliche Abschlussentscheidung nicht als bloßen Vorschlag, sondern als zeichnungsreifen Volltext. Er baut Anklageschrift, Strafbefehlsantrag, Einstellungsverfügung oder Abschlussverfügung mit Verfahrensdaten, Tatvorwurf, Beweisstand, rechtlicher Würdigung, Verfügungssatz, Nebenverfügungen und Rechtsbehelfshinweis.
 
-Gegenstand: Abschlussverfügung der Staatsanwaltschaft (Anklageschrift nach Paragraf 200 StPO, Strafbefehlsantrag nach Paragraf 407 StPO, Einstellungsverfügung nach Paragrafen 170 Absatz 2, 153, 153a, 154, 154a StPO).
+Gegenstand: Abschlussverfügung im Ermittlungsverfahren (Anklage, Strafbefehl oder Einstellung).
 
 ## Rechtlicher Rahmen
 
-Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag; Paragraf 170 Absatz 2 StPO für Einstellung mangels Tatverdacht; Paragraf 153 und Paragraf 153a StPO für Opportunität; Paragraf 154 und Paragraf 154a StPO für Verfahrensbeschränkung; Nummer 1 und Nummer 14 RiStBV.
+Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag.
 
 ## Eingangsvoraussetzungen
 
@@ -35,9 +35,9 @@ Staatsanwaltschaft, Aktenzeichen, Datum, Dezernat, Beschuldigter, Verteidiger, T
 
 ### 2. Verfügungssatz oder Anklageformel
 
-Die Entscheidung wird als staatsanwaltschaftliche Handlung formuliert: Anklageerhebung, Strafbefehlsantrag, Einstellung, Teileinstellung, Nachermittlung oder Abgabe.
+Die Entscheidung wird als staatsanwaltschaftliche Handlung formuliert: Anklageerhebung, Strafbefehlsantrag, Einstellung, Teileinstellung, Nachermittlung, Abgabe oder Vorlage. Beispiel für eine Einstellungsverfügung:
 
-Beispiel Anklageformel: Dem Angeschuldigten wird zur Last gelegt, in [Ort] am [Datum] [konkretes Tatgeschehen] begangen zu haben. Das Verhalten ist strafbar als [Delikt] nach [Norm].
+Verfügung: Das Verfahren gegen [Name] wegen [Tatvorwurf] wird gemäß Paragraf 170 Absatz 2 StPO eingestellt, weil ein hinreichender Tatverdacht nicht besteht. Der Beschuldigte ist hiervon zu unterrichten. Der Anzeigeerstatter ist gemäß Paragraf 171 StPO zu bescheiden mit Hinweis auf das Beschwerderecht nach Paragraf 172 StPO.
 
 Der Verfügungssatz enthält zwingend: Entscheidung, Tatvorwurf, Beweismittelbezug, zuständiges Gericht oder Adressat und nächste Verfügung.
 
