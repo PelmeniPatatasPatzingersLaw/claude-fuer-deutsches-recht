@@ -35,8 +35,8 @@ Dieser Skill formt den hinreichenden Tatverdacht in eine Anklageschrift. Er tren
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Tragfähige Beweiswürdigung verlangt vollständige und widerspruchsfreie Tatsachengrundlage.
-- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Fälle brauchen sorgfältige Darstellung von Konstanz, Entstehung und Belastungsmotiv.
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98: Anforderungen an die aussagepsychologische Glaubhaftigkeitsbegutachtung.
+- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Fälle brauchen sorgfältige Darstellung von Konstanz, Entstehung und Belastungsmotiv. Diese Grundsätze gelten nicht automatisch bei jeder bestrittenen Zeugenaussage; maßgeblich ist, ob die zu entscheidende Tatsachenfrage wesentlich davon abhängt, welcher einander widersprechenden Aussage gefolgt wird. Sach-, Urkunden- oder Indizienbeweise sind bei der Einordnung der Beweissituation zu berücksichtigen.
 - BGH, Beschluss vom 10.01.2017, 4 StR 247/16: Beweiswürdigung darf keine wesentlichen Umstände ausblenden.
 
 ## Arbeitsprodukt

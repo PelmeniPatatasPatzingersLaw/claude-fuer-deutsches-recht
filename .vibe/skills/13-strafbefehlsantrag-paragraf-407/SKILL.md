@@ -36,7 +36,7 @@ Dieser Skill prüft, ob ein Verfahren strafbefehlsgeeignet ist, und formuliert e
 ## Leitentscheidungen
 
 - BVerfG, Beschluss vom 19.03.2013, 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Verständigung und Abkürzung des Strafverfahrens verlangen Transparenz und richterliche Kontrolle.
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Beweislage und Beweiswürdigung müssen auch bei vereinfachten Verfahrenswegen tragfähig bleiben.
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98: Anforderungen an die aussagepsychologische Glaubhaftigkeitsbegutachtung. Bei vereinfachten Verfahrenswegen bleibt die Beweislage eigenständig zu prüfen.
 
 ## Arbeitsprodukt
 
