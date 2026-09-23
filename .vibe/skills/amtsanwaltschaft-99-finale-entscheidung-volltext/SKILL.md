@@ -66,7 +66,18 @@ Ort, Datum, Dezernent, Amtsbezeichnung und gegebenenfalls Sichtvermerk oder Vorl
 Vor der finalen Verfügung wird zwingend geprüft:
 
 1. Anfangsverdacht, hinreichender Tatverdacht oder Opportunitätsentscheidung sind sauber getrennt.
-2. Eingriffe wie Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft oder Vermögensarrest haben Norm, Tatsachenbasis, Verhältnismäßigkeit und Richtervorbehalt.
+2. Beweis- und Eingriffsdisziplin:
+   Bei jeder Zwangs- oder verdeckten Ermittlungsmaßnahme sind
+   die konkrete Rechtsgrundlage, Tatsachenbasis, das Beweisziel,
+   die Anordnungskompetenz, eine etwaige Eilkompetenz,
+   die Verhältnismäßigkeit sowie gesetzliche Bestätigungs-,
+   Befristungs- und Benachrichtigungspflichten maßnahmenspezifisch
+   zu prüfen. Ein Richtervorbehalt darf nur angenommen werden,
+   soweit die einschlägige Vorschrift ihn vorsieht; gesetzliche
+   Ausnahmen und Sonderregelungen sind gesondert zu beachten.
+   Presseauskünfte und Verfahrensabgaben sind keine
+   Zwangsmaßnahmen und werden nach ihren jeweils einschlägigen
+   Zuständigkeits- und Verfahrensregeln behandelt.
 3. Entlastende Umstände sind sichtbar verarbeitet; die Verfügung denkt nicht nur belastend.
 4. Beweisverwertungsfragen, Belehrungen, Rechtshilfe, digitale Spuren und Zufallsfunde sind als eigene Zeile geprüft.
 5. Abschlussentscheidung passt zum Beweisstand: Nachermittlung, Einstellung, Strafbefehl, Anklage, Beschleunigtes Verfahren oder Rechtsmittel.
