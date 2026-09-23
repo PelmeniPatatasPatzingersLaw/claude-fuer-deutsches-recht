@@ -19,19 +19,20 @@ description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- 
 
 ## Erste Weiche: Zivilrechtliche Leistungsstörung oder Betrug
 
-- Lieferverzug, Mängelrüge, Gewährleistungsstreit und unzufriedenstellende Vertragserfüllung sind zunächst zivilrechtliche Leistungsstörungen; sie enthalten keine Täuschungshandlung im Sinne des Paragraf 263 StGB.
+- Lieferverzug, Mängelrüge, Gewährleistungsstreit und unzufriedenstellende Vertragserfüllung belegen für sich allein keinen Betrug. Sie schließen aber eine bereits bei Vertragsanbahnung oder Vertragsschluss erfolgte Täuschung nicht aus.
+- Entscheidend ist, ob eine konkrete falsche oder irreführende Tatsachenkommunikation vorlag und diese für Irrtum und Vermögensverfügung ursächlich war.
 - Prüffrage für den Übergang ins Strafrecht: Gibt es eine konkret benennbare falsche Tatsachenbehauptung, die dem Geschädigten vor seiner Vermögensverfügung vorgespiegelt oder eine wahre Tatsache entstellt oder unterdrückt wurde, und sprechen konkrete Tatsachen dafür, dass der Beschuldigte im Zeitpunkt der Verfügung bereits nicht liefern oder nicht wahrheitsgemäß leisten wollte?
-- Bleibt nur ein unbefriedigender Vertrag ohne belegbare Täuschungshandlung: Einstellung nach Paragraf 170 Absatz 2 StPO prüfen und dem Anzeigererstattenden den zivilrechtlichen Weg aufzeigen.
+- Bei fehlenden strafrechtlichen Anhaltspunkten: strafrechtliche Bewertung und gegebenenfalls Einstellung sauber begründen. Keine zivilrechtliche Beratung erteilen; die staatsanwaltschaftliche Zuständigkeit endet bei der strafrechtlichen Bewertung.
 
 ## Prüfkern: Paragraf 263 Absatz 1 StGB
 
 ### A. Täuschung über Tatsachen
 
 - Welche konkrete Tatsachenbehauptung soll falsch gewesen sein? Die Behauptung ist wörtlich und mit Quelle (Chatverlauf, Verkaufsanzeige, E-Mail, Zeugenaussage) zu benennen.
-- Ausdrücklich oder konkludent? Auch schlüssiges Verhalten kann täuschen; die Tatsachenbehauptung muss dann aber hinreichend bestimmt sein.
+- Ausdrücklich oder konkludent? Auch schlüssiges Verhalten kann täuschen; die Tatsachenbehauptung muss dann aber hinreichend bestimmt sein. Dogmatischer Prüfpunkt: Die Zulässigkeit konkludenter Täuschung ergibt sich nicht unmittelbar aus dem Wortlaut des Paragraf 263 StGB und ist vor Verwendung anhand der einschlägigen Rechtsprechung gesondert zu verifizieren.
 - Welche Angabe wurde wann und gegenüber wem gemacht? Zeitpunkt und Adressat sind vor der Vermögensverfügung zu bestimmen.
 - Werturteile, unverbindliche Anpreisungen und reine Meinungsäußerungen sind keine Tatsachenbehauptungen, soweit sie keine überprüfbare Tatsache enthalten.
-- Täuschung durch Unterlassen setzt eine bestehende Aufklärungspflicht voraus; ob eine solche Pflicht besteht, ist gesondert zu prüfen.
+- Täuschung durch Unterlassen setzt eine bestehende Aufklärungspflicht voraus; ob eine solche Pflicht besteht, ist gesondert zu prüfen. Dogmatischer Prüfpunkt: Die Aufklärungspflicht als Grundlage der Täuschung durch Unterlassen ergibt sich nicht unmittelbar aus dem Wortlaut des Paragraf 263 StGB und ist vor Verwendung anhand der einschlägigen Rechtsprechung gesondert zu verifizieren.
 
 ### B. Irrtum
 
@@ -41,7 +42,7 @@ description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- 
 
 ### C. Vermögensverfügung
 
-- Die Vermögensverfügung ist ein ungeschriebenes Tatbestandsmerkmal und Bindeglied zwischen Irrtum und Vermögensschaden; sie ist ein unmittelbarer Vermögensakt des Getäuschten.
+- Die Vermögensverfügung ist ein ungeschriebenes Tatbestandsmerkmal und Bindeglied zwischen Irrtum und Vermögensschaden; sie ist ein unmittelbarer Vermögensakt des Getäuschten. Dogmatischer Prüfpunkt: Die Vermögensverfügung als ungeschriebenes Tatbestandsmerkmal ergibt sich nicht aus dem Wortlaut des Paragraf 263 StGB und ist vor Verwendung anhand der einschlägigen Rechtsprechung gesondert zu verifizieren.
 - Welche konkrete Vermögenshandlung wurde vorgenommen: Zahlung, Warenübergabe, Auftragserteilung, Einräumung einer Rechtsposition?
 - Wodurch wurde sie veranlasst? Die Verfügung muss jedenfalls auch kausal auf dem Irrtum beruhen; ob weitere Motive hinzutreten, ist aktenkundig zu machen.
 
@@ -50,7 +51,7 @@ description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- 
 - Welches Vermögen ist betroffen und in welcher Höhe? Gezahlter Betrag und tatsächlicher wirtschaftlicher Gegenwert sind einander gegenüberzustellen.
 - Zeitpunkt der Schadensbetrachtung: maßgeblich ist die Vermögenslage im Zeitpunkt der Verfügung; erforderliche Tatsachen zur Schadensbestimmung (Kaufpreis, Marktwert der gelieferten oder versprochenen Ware, tatsächlicher Gebrauchswert) sind aktenkundig zu machen.
 - Keine Schadenshöhe erfinden oder frei schätzen, wo belastbare Anhaltspunkte fehlen; Schätzlücken sind als offener Ermittlungsbedarf zu benennen.
-- Für die Schadensbestimmung ist auf den wirtschaftlichen Wertvergleich abzustellen; die zivilrechtliche Wirksamkeit des Vertrags ist gesondert zu prüfen und beeinflusst die Schadensfrage nicht automatisch.
+- Für die Schadensbestimmung ist auf den wirtschaftlichen Wertvergleich abzustellen; die zivilrechtliche Wirksamkeit des Vertrags ist gesondert zu prüfen und beeinflusst die Schadensfrage nicht automatisch. Dogmatischer Prüfpunkt: Die wirtschaftliche Schadensbestimmung im Einzelnen ergibt sich nicht vollständig aus dem Wortlaut des Paragraf 263 StGB und ist vor Verwendung anhand der einschlägigen Rechtsprechung gesondert zu verifizieren.
 
 ### E. Kausalzusammenhang
 
@@ -67,32 +68,40 @@ description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- 
 ### G. Bereicherungsabsicht
 
 - Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen: prüfen, ob der erstrebte Vorteil rechtswidrig ist.
-- Soweit einschlägig, ist die Stoffgleichheit zu prüfen: ob der angestrebte Vorteil gerade aus der Vermögensverfügung des Geschädigten stammt und die Kehrseite des Vermögensschadens ist.
+- Soweit einschlägig, ist die Stoffgleichheit zu prüfen: ob der angestrebte Vorteil gerade aus der Vermögensverfügung des Geschädigten stammt und die Kehrseite des Vermögensschadens ist. Dogmatischer Prüfpunkt: Die Stoffgleichheit als Prüfkriterium der Bereicherungsabsicht ergibt sich nicht aus dem Wortlaut des Paragraf 263 StGB und ist vor Verwendung anhand der einschlägigen Rechtsprechung gesondert zu verifizieren.
 - Bereicherungsabsicht ist innere Tatsache; sie ist aus äußeren Umständen zu schließen und nicht zu unterstellen.
 
 ## Besondere Normpunkte des Paragraf 263 StGB
 
 ### Paragraf 263 Absatz 2 StGB: Versuch
 
-- Der Versuch ist strafbar. Zu prüfen ist, ob der Beschuldigte zur Tatbestandsverwirklichung unmittelbar angesetzt hat, etwa bei abgebrochener Zahlungsaufforderung oder blockierter Kontobewegung vor der Verfügung des Geschädigten.
-- Beim Versuch entfällt die Vollendungsvoraussetzung der Vermögensverfügung und des eingetretenen Schadens; die übrigen Merkmale bleiben zu prüfen.
+- Der Versuch ist strafbar.
+- Bei Paragraf 263 Absatz 2 StGB ist gesondert nach Paragraf 22 StGB zu prüfen, ob der Beschuldigte nach seiner Vorstellung von der Tat zur Verwirklichung des Betrugstatbestands unmittelbar angesetzt hat.
+- Beim Versuch entfällt die Vollendungsvoraussetzung der Vermögensverfügung und des eingetretenen Schadens; die übrigen Merkmale bleiben zu prüfen. Keine pauschalen Beispielsfälle bilden; das unmittelbare Ansetzen ist am konkreten Sachverhalt zu bestimmen.
 
 ### Paragraf 263 Absatz 3 StGB: Besonders schwere Fälle
 
 - Besonders schwere Fälle und ihre Regelbeispiele dürfen nur geprüft oder angenommen werden, wenn konkrete Tatsachen dafür vorhanden sind.
-- Die Regelbeispiele sind einzeln am Sachverhalt zu messen, namentlich gewerbsmäßiges Handeln, Handeln als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat, Herbeiführung eines Vermögensverlusts großen Ausmaßes sowie die Absicht, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen.
+- Die fünf gesetzlichen Regelbeispiele des Paragraf 263 Absatz 3 Satz 2 StGB sind vollständig am Sachverhalt zu messen:
+  1. gewerbsmäßiges Handeln oder Handeln als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat,
+  2. Herbeiführung eines Vermögensverlusts großen Ausmaßes oder die Absicht, durch die fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen,
+  3. das Bringen einer anderen Person in wirtschaftliche Not,
+  4. der Missbrauch der Befugnisse oder der Stellung als Amtsträger oder Europäischer Amtsträger oder die Ausnutzung der Mithilfe eines Amtsträgers, der seine Befugnisse oder seine Stellung missbraucht,
+  5. das Vortäuschen eines Versicherungsfalls, nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt oder durch eine Brandlegung ganz oder teilweise zerstört oder ein Schiff zum Sinken oder Stranden gebracht hat.
+- Für jede Entscheidung ist stets der vollständige aktuelle Normtext des Paragraf 263 Absatz 3 StGB heranzuziehen.
 - Keine Gewerbsmäßigkeit nur aus mehreren Verkäufen ableiten. Mehrere gleichartige Verkäufe begründen für sich noch keine Gewerbsmäßigkeit; ob sie vorliegt, ist anhand konkreter Tatsachen zu den Absichten des Beschuldigten zu prüfen.
 
 ### Paragraf 263 Absatz 4 StGB: Strafantrag nach Paragrafen 247 und 248a StGB
 
 - Paragraf 263 Absatz 4 StGB bestimmt ausdrücklich, dass Paragraf 243 Absatz 2 sowie die Paragrafen 247 und 248a StGB entsprechend gelten.
 - Deshalb keine pauschale Aussage des Inhalts, Betrug sei immer strafantragsunabhängig.
-- Kommen die Voraussetzungen des Paragraf 247 StGB in Betracht (Verletzung eines Angehörigen, des Vormunds oder Betreuers oder häusliche Gemeinschaft zwischen Verletztem und Täter; Verfolgung nur auf Antrag) oder die des Paragraf 248a StGB (geringwertige Sache; Verfolgung nur auf Antrag, es sei denn, die Strafverfolgungsbehörde hält wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten), sind Strafantrag und gegebenenfalls besonderes öffentliches Interesse gesondert zu prüfen und aktenkundig zu entscheiden.
+- Kommen die Voraussetzungen des Paragraf 247 StGB in Betracht (Verletzung eines Angehörigen, des Vormunds oder Betreuers oder häusliche Gemeinschaft zwischen Verletztem und Täter; Verfolgung nur auf Antrag), sind Strafantrag und Fristen gesondert zu prüfen und aktenkundig zu entscheiden.
+- Bei möglicher Geringwertigkeit ist die entsprechende Anwendung des Paragraf 248a StGB auf den konkreten Betrugsfall gesondert zu prüfen: Verfolgung nur auf Antrag, es sei denn, die Strafverfolgungsbehörde hält wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten. Keine starre Wertgrenze als Prüfungsmaßstab verwenden, solange sie nicht anhand belastbarer aktueller Rechtsprechung verifiziert wurde.
 
 ### Paragraf 263 Absatz 5 StGB: Gewerbsmäßiger Bandenbetrug
 
 - Paragraf 263 Absatz 5 StGB ist ein eigenständiger Qualifikationstatbestand mit eigenem Strafrahmen (Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen von sechs Monaten bis zu fünf Jahren) und ist nicht mit Absatz 3 gleichzusetzen.
-- Er kommt nur bei tatsächlicher Grundlage in Betracht: Mitgliedschaft in einer Bande, die sich zur fortgesetzten Begehung von Betrug oder der weiteren im Absatz benannten Taten verbunden hat, und zugleich gewerbsmäßige Begehung.
+- Er kommt nur bei tatsächlicher Grundlage in Betracht: Mitgliedschaft in einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach den Paragrafen 263 bis 264 oder 267 bis 269 StGB verbunden hat, und zugleich gewerbsmäßige Begehung des Betrugs.
 - Beide Merkmale sind getrennt und mit konkreten Tatsachen zu prüfen; Bandenmitgliedschaft ist nicht aus der Nutzung gemeinsamer Plattformkonten allein abzuleiten.
 
 ## Typische Beweismittel und Beweisthemen
@@ -143,10 +152,10 @@ Die vorgeschlagenen Ermittlungsmaßnahmen sind vier Kategorien zuzuordnen:
 
 1. Gesetzlich oder verfahrensrechtlich gebotene Prüfung:
    - Sachverhaltserforschung nach Paragraf 160 Absatz 1 StPO, einschließlich der Ermittlung entlastender Umstände nach Paragraf 160 Absatz 2 StPO.
+   - Beschuldigtenanhörung nach Paragraf 163a Absatz 1 StPO: Der Beschuldigte ist grundsätzlich spätestens vor Abschluss der Ermittlungen zu vernehmen, es sei denn, dass das Verfahren zur Einstellung führt. In einfachen Sachen genügt es, dass ihm Gelegenheit gegeben wird, sich schriftlich zu äußern. Keine Pflicht zur mündlichen Vernehmung behaupten, wenn Paragraf 163a Absatz 1 StPO eine andere Form zulässt.
    - Entscheidung über Anklage oder Einstellung nach Paragraf 170 StPO auf Grund des abschließend ermittelten Beweisstands.
 2. Fachlich naheliegende Ermittlungsmaßnahme:
    - Sichtung und Auswertung der Chat- und Messenger-Kommunikation, wenn diese den Ort der behaupteten Täuschung bildet.
-   - Einholung der Einlassung des Beschuldigten, soweit der bisherige Einlassungsstand eine Anhörung zur Klärung von Täuschung, Kenntnisstand und Absicht gebietet; ihre Notwendigkeit hängt vom Einlassungsstand und dem konkreten Beweisziel ab.
    - Beiziehung der Zahlungs- und Versandunterlagen zur Abbildung der Vermögensverfügung.
 3. Option bei entsprechender Tatsachengrundlage:
    - Auskunftsanfrage an die Handelsplattform zu Accountzuordnung und Angebotsverlauf, soweit die Accountzuordnung streitig oder unerledigt ist.
@@ -165,30 +174,35 @@ Bei jeder Zwangs- oder verdeckten Ermittlungsmaßnahme sind die konkrete Rechtsg
 ## Verdachtsgrade und Abschlussentscheidung
 
 - Anfangsverdacht: zureichende tatsächliche Anhaltspunkte für das Vorliegen einer verfolgbaren Straftat (Paragraf 152 Absatz 2 StPO). Der Anfangsverdacht begründet die Pflicht zur Ermittlung; er ist keine Vorverurteilung.
-- Hinreichender Tatverdacht: maßgeblich für die Abschlussentscheidung nach Paragraf 170 StPO ist allein der nach Abschluss der Ermittlungen vorhandene Beweisstand.
-- Bieten die Ermittlungen genügenden Anlass zur Erhebung der öffentlichen Klage, wird Anklage erhoben (Paragraf 170 Absatz 1 StPO); andernfalls ist das Verfahren einzustellen (Paragraf 170 Absatz 2 StPO).
+- Hinreichender Tatverdacht: für die Abschlussentscheidung ist der nach Abschluss der Ermittlungen vorhandene Beweisstand heranzuziehen. Das Gesetz stellt in Paragraf 170 StPO darauf ab, ob die Ermittlungen genügenden Anlass zur Erhebung der öffentlichen Klage bieten (Paragraf 170 Absatz 1 StPO); andernfalls ist das Verfahren einzustellen (Paragraf 170 Absatz 2 StPO).
+- Soll der Begriff des hinreichenden Tatverdachts im Einzelnen definiert werden, ist zusätzlich Paragraf 203 StPO heranzuziehen (Beschluss über die Eröffnung des Hauptverfahrens, wenn der Angeschuldigte einer Straftat hinreichend verdächtig erscheint) und gegebenenfalls belastbare Rechtsprechung.
 - Die Formel "Anfangsverdacht bejaht, also Einstellung ausgeschlossen" ist unzulässig. Ein zu Beginn gegebener Anfangsverdacht kann sich im Verlauf der Ermittlungen ausräumen; umgekehrt kann ein anfänglich dünner Verdacht sich verdichten.
-- Für die Anklageschrift sind die beweisbaren Tatsachen zu Täuschung, Irrtum, Vermögensverfügung, Schaden, Vorsatz und Bereicherungsabsicht tragfähig darzustellen; unbelegte Glieder der Kette führen zur Einstellung nach Paragraf 170 Absatz 2 StPO.
+- Lässt sich ein erforderliches Tatbestandsmerkmal nach Abschluss der gebotenen Ermittlungen nicht mit dem für die Anklageerhebung erforderlichen Verdachtsgrad belegen, ist Paragraf 170 Absatz 2 StPO zu prüfen.
 
 ## Staatsanwaltschaftliches Arbeitsprodukt
 
 - Arbeitsprodukt: Eingangsverfügung mit konkretem Ermittlungsauftrag, Zwischenverfügung, Abschlussverfügung, Anklageschrift, Strafbefehlsantrag oder Einstellungsvermerk.
-- Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand (gesicherte Tatsachen, bestrittene Tatsachen, fehlende Unterlagen), Verfügung, Frist oder Wiedervorlage nach sachgerechter Festlegung und die nächste Kontrollentscheidung.
+- Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand (gesicherte Tatsachen, bestrittene Tatsachen, fehlende Unterlagen), Verfügung, Frist oder Wiedervorlage nach sachgerechter Festlegung und die nächste Kontrollentscheidung. Wurde kein Aktenzeichen mitgeteilt, darf keins erfunden werden; dann Platzhalter oder den Hinweis "nicht mitgeteilt" verwenden.
+- Keine erfundenen Fristen. Soweit eine praktische Frist sinnvoll, aber nicht gesetzlich oder behördlich vorgegeben ist, gilt: Frist und Wiedervorlage nach sachgerechter Festlegung durch den Dezernenten.
 - Die Verfügung trennt bei jedem Punkt zwischen gesichertem Beweisstand, offenen Fragen und Ermittlungsbedarf.
 
 ## Normen- und Quellenanker
 
-Alle aufgeführten Normen sind mit dem amtlichen Wortlaut auf gesetze-im-internet.de verifiziert. Rechtsprechungszitate sind in diesem Skill bewusst nicht aufgenommen, weil vor der Formulierung keine Entscheidung an den bevorzugten Primärquellen (gesetze-im-internet.de, bundesgerichtshof.de, bundesverfassungsgericht.de) abschließend verifiziert werden konnte. Keine Entscheidung ist aus Modellwissen übernommen.
+Quellenzuordnung: gesetze-im-internet.de ist die Quelle für die amtlichen Gesetzestexte. bundesgerichtshof.de ist die Quelle für BGH-Rechtsprechung, bundesverfassungsgericht.de die Quelle für BVerfG-Rechtsprechung. gesetze-im-internet.de ist keine Quelle für Gerichtsentscheidungen.
 
+Alle aufgeführten Normen sind mit dem amtlichen Wortlaut auf gesetze-im-internet.de verifiziert. Rechtsprechungszitate sind in diesem Skill bewusst nicht aufgenommen, weil vor der Formulierung keine Entscheidung an den zuständigen Primärquellen (bundesgerichtshof.de, bundesverfassungsgericht.de) abschließend verifiziert werden konnte. Dogmatische Aussagen, die sich nicht aus dem Normwortlaut ergeben, sind im Text ausdrücklich als gesondert zu verifizierende Prüfpunkte gekennzeichnet. Keine Entscheidung ist aus Modellwissen übernommen.
+
+- Paragraf 22 StGB (Begriffsbestimmung des Versuchs): Eine Straftat versucht, wer nach seiner Vorstellung von der Tat zur Verwirklichung des Tatbestandes unmittelbar ansetzt.
 - Paragraf 263 Absatz 1 StGB (Betrug): Wer in der Absicht, sich oder einem Dritten einen rechtswidrigen Vermögensvorteil zu verschaffen, das Vermögen eines anderen dadurch beschädigt, dass er durch Vorspiegelung falscher oder durch Entstellung oder Unterdrückung wahrer Tatsachen einen Irrtum erregt oder unterhält, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
-- Paragraf 263 Absatz 2 StGB: Der Versuch ist strafbar.
-- Paragraf 263 Absatz 3 StGB: In besonders schweren Fällen Freiheitsstrafe von sechs Monaten bis zu zehn Jahren; Regelbeispiele insbesondere gewerbsmäßiges Handeln oder Handeln als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat, Herbeiführung eines Vermögensverlusts großen Ausmaßes und die Absicht, durch fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen.
+- Paragraf 263 Absatz 2 StGB: Der Versuch ist strafbar; für das unmittelbare Ansetzen gilt Paragraf 22 StGB.
+- Paragraf 263 Absatz 3 StGB: In besonders schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor bei den fünf gesetzlichen Regelbeispielen: Ein besonders schwerer Fall liegt in der Regel vor bei den fünf gesetzlichen Regelbeispielen: gewerbsmäßiges Handeln oder Handeln als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Urkundenfälschung oder Betrug verbunden hat; Herbeiführung eines Vermögensverlusts großen Ausmaßes oder Absicht, durch fortgesetzte Begehung von Betrug eine große Zahl von Menschen in die Gefahr des Verlustes von Vermögenswerten zu bringen; das Bringen einer anderen Person in wirtschaftliche Not; Missbrauch der Befugnisse oder der Stellung als Amtsträger oder Europäischer Amtsträger oder Ausnutzung der Mithilfe eines Amtsträgers, der seine Befugnisse oder seine Stellung missbraucht; Vortäuschen eines Versicherungsfalls, nachdem er oder ein anderer zu diesem Zweck eine Sache von bedeutendem Wert in Brand gesetzt oder durch eine Brandlegung ganz oder teilweise zerstört oder ein Schiff zum Sinken oder Stranden gebracht hat.
 - Paragraf 263 Absatz 4 StGB: Paragraf 243 Absatz 2 sowie die Paragrafen 247 und 248a gelten entsprechend.
-- Paragraf 263 Absatz 5 StGB: Strafe des gewerbsmäßig als Bandenmitglied begangenen Betrugs; Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen von sechs Monaten bis zu fünf Jahren.
+- Paragraf 263 Absatz 5 StGB: Freiheitsstrafe von einem Jahr bis zu zehn Jahren, in minder schweren Fällen von sechs Monaten bis zu fünf Jahren, für den Betrug, der als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Straftaten nach den Paragrafen 263 bis 264 oder 267 bis 269 StGB verbunden hat, gewerbsmäßig begangen wird.
 - Paragraf 247 StGB (Haus- und Familiendiebstahl): Ist durch einen Diebstahl oder eine Unterschlagung ein Angehöriger, der Vormund oder der Betreuer verletzt oder lebt der Verletzte mit dem Täter in häuslicher Gemeinschaft, so wird die Tat nur auf Antrag verfolgt; über Paragraf 263 Absatz 4 StGB entsprechend auf Betrug anwendbar.
 - Paragraf 248a StGB (Diebstahl und Unterschlagung geringwertiger Sachen): Verfolgung nur auf Antrag, es sei denn, die Strafverfolgungsbehörde hält wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten; über Paragraf 263 Absatz 4 StGB entsprechend auf Betrug anwendbar.
 - Paragraf 152 Absatz 2 StPO (Legalitätsgrundsatz): Verpflichtung zum Einschreiten wegen aller verfolgbaren Straftaten, soweit nicht gesetzlich ein anderes bestimmt ist und zureichende tatsächliche Anhaltspunkte vorliegen.
 - Paragraf 160 StPO (Pflicht zur Sachverhaltsaufklärung): Erforschung des Sachverhalts zur Entschließung über die Erhebung der öffentlichen Klage (Absatz 1); Ermittlung auch der entlastenden Umstände (Absatz 2).
+- Paragraf 163a Absatz 1 StPO (Vernehmung des Beschuldigten): Der Beschuldigte ist spätestens vor Abschluss der Ermittlungen zu vernehmen, es sei denn, dass das Verfahren zur Einstellung führt. In einfachen Sachen genügt es, dass ihm Gelegenheit gegeben wird, sich schriftlich zu äußern.
 - Paragraf 163 StPO (Aufgaben der Polizei): Behörden und Beamte des Polizeidienstes erforschen Straftaten und treffen jeden Aufschub verbietende Anordnungen zur Verhinderung der Verdunkelung; Übersendung der Verhandlungen ohne Verzug an die Staatsanwaltschaft.
 - Paragraf 170 StPO (Beschluss über die Klageerhebung): Erhebung der öffentlichen Klage bei genügendem Anlass (Absatz 1); andernfalls Einstellung des Verfahrens (Absatz 2).
-- Quellen: gesetze-im-internet.de (StGB, StPO), amtlicher Wortlaut, Abruf am Tag der Bearbeitung.
+- Quellen: gesetze-im-internet.de (amtliche Gesetzestexte StGB, StPO), amtlicher Wortlaut, Abruf am Tag der Bearbeitung. Für Rechtsprechung wären bundesgerichtshof.de und bundesverfassungsgericht.de die zuständigen Primärquellen.
