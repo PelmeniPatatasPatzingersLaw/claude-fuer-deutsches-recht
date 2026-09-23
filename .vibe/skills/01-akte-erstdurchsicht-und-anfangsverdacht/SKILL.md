@@ -103,7 +103,17 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 - Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
 - Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
 - Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
-- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
+- Beweis- und Eingriffsdisziplin:
+  Bei jeder Zwangs- oder verdeckten Ermittlungsmaßnahme sind die konkrete
+  Rechtsgrundlage, Tatsachenbasis, das Beweisziel, die Anordnungskompetenz,
+  eine etwaige Eilkompetenz, die Verhältnismäßigkeit sowie gesetzliche
+  Bestätigungs-, Befristungs- und Benachrichtigungspflichten
+  maßnahmenspezifisch zu prüfen. Ein Richtervorbehalt darf nur angenommen
+  werden, soweit die einschlägige Vorschrift ihn vorsieht; gesetzliche
+  Ausnahmen und Sonderregelungen sind gesondert zu beachten.
+  Presseauskünfte und Verfahrensabgaben sind keine Zwangsmaßnahmen und
+  werden nach ihren jeweils einschlägigen Zuständigkeits- und
+  Verfahrensregeln behandelt.
 - Stop-Kriterium: Bei Geheimschutz, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
