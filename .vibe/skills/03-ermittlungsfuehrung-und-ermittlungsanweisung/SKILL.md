@@ -31,12 +31,12 @@ Dieser Skill macht aus Anzeige, Polizeivorgang oder Aktenvermerk eine sachleiten
 - StPO Paragraf 160 Absatz 1 und Absatz 2: Ermittlungsauftrag und Objektivität.
 - StPO Paragraf 161: Auskunfts- und Ermittlungsbefugnisse.
 - StPO Paragraf 163: Aufgaben der Polizei im Ermittlungsverfahren.
-- GVG Paragraf 152: Stellung der Staatsanwaltschaft.
+- GVG Paragraf 152: Ermittlungspersonen der Staatsanwaltschaft. Die organisatorischen Vorschriften über die Staatsanwaltschaft befinden sich im Zehnten Titel des GVG (Paragrafen 141 ff. GVG).
 
 ## Leitentscheidungen
 
-- BGH, Beschluss vom 30.07.1999, 1 StR 618/98: Beweiswürdigung muss tragfähig und widerspruchsfrei sein.
-- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Konstellationen verlangen besondere Sorgfalt bei Entstehung, Konstanz und Belastungsmotiv.
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98: Anforderungen an die aussagepsychologische Glaubhaftigkeitsbegutachtung.
+- BGH, Urteil vom 29.07.1998, 1 StR 94/98: Aussage-gegen-Aussage-Konstellationen verlangen besondere Sorgfalt bei Entstehung, Konstanz und Belastungsmotiv. Diese Grundsätze gelten nicht automatisch bei jeder bestrittenen Zeugenaussage; maßgeblich ist, ob die zu entscheidende Tatsachenfrage wesentlich davon abhängt, welcher einander widersprechenden Aussage gefolgt wird. Sach-, Urkunden- oder Indizienbeweise sind bei der Einordnung der Beweissituation zu berücksichtigen.
 
 ## Arbeitsprodukt
 

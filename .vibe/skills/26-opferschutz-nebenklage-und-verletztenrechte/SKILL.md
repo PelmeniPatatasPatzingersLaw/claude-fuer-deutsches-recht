@@ -12,7 +12,7 @@ Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Ans
 ## Rolle
 
 
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Ausübung des staatsanwaltschaftlichen Amts, insbesondere durch Amtsanwälte bei den Amtsgerichten; Zuständigkeit des Strafrichters nach Paragraf 25 GVG). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
 
 ## Rechtsrahmen
 
