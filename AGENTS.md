@@ -356,6 +356,58 @@ Das gilt besonders für:
 - Opportunitätsentscheidungen
 - Rechtsmittel
 
+## Skill-Gate und Quellenisolation
+
+Dieser Abschnitt definiert, welche SKILL.md-Dateien bei Fallanalysen verwendet werden dürfen.
+
+### 1. Nur aktivierte Skills verwenden
+Bei Fallanalyse, Aktenprüfung, Rechtsprüfung und staatsanwaltschaftlicher Arbeit dürfen ausschließlich SKILL.md-Dateien verwendet werden, deren Skill-Name aktuell in
+
+`.vibe/config.toml` → `enabled_skills`
+
+enthalten ist.
+
+### 2. Deaktivierte Skills nicht lesen
+Ein Skill unter `.vibe/skills/` darf NICHT gelesen oder inhaltlich verwendet werden, wenn sein Name nicht in `enabled_skills` steht.
+
+### 3. Keine SKILL.md-Dateien außerhalb von .vibe/skills/
+SKILL.md-Dateien außerhalb von `.vibe/skills/` dürfen bei normalen Fallanalysen NICHT als fachliche Quelle verwendet werden.
+
+Insbesondere keine Skills aus:
+- `gerichtsplugins/`
+- `fachanwalt-strafrecht/`
+- anderen Rollen- oder Plugin-Verzeichnissen
+
+### 4. Keine repositoryweite Skill-Suche während der Fallanalyse
+Während einer normalen Fallanalyse nicht repositoryweit nach weiteren SKILL.md-Dateien suchen.
+
+### 5. Prüfung vor dem Lesen eines Skills
+Vor dem Lesen eines Skills ist zu prüfen, ob sein Name in `enabled_skills` enthalten ist.
+
+### 6. Fehlende Skill-Abdeckung melden, nicht ersetzen
+Wenn ein benötigtes Fachthema durch keinen aktivierten Skill abgedeckt wird:
+- Lücke ausdrücklich benennen
+- nicht selbstständig einen deaktivierten Skill öffnen
+- nicht auf einen alten Plugin-Skill ausweichen
+
+### 7. Ausnahme: ausdrücklich angeordnete Skill-Wartung
+Bei einer ausdrücklich vom Benutzer angeordneten Skill-Wartung oder Skill-Überarbeitung darf der konkret bezeichnete deaktivierte Skill gelesen und bearbeitet werden.
+
+Diese Ausnahme gilt nur für die Wartungsaufgabe, nicht für normale Fallanalysen.
+
+### 8. Angabe der verwendeten Skills
+Im Abschnitt „Verwendete Skills“ einer Fallanalyse dürfen nur tatsächlich verwendete, aktivierte `.vibe`-Skills genannt werden.
+
+## Zusätzliche Faktdisziplin
+
+- Zeugen niemals ohne Tatsachengrundlage als neutral, glaubwürdig, unglaubwürdig, befangen oder parteiisch bezeichnen.
+- Zeitliche Zusätze wie „unmittelbar“, „kurz danach“, „längere Zeit“ usw. nur verwenden, wenn sie im Sachverhalt tatsächlich mitgeteilt sind.
+- Wenn eine Äußerung eindeutig einer Person zugeschrieben wird, nicht behaupten, die Äußerung sei dieser Person „nicht eindeutig zugeordnet“.
+- Fehlende Tatsachen nicht automatisch in Ermittlungsaufträge umwandeln.
+- Weitere Geschädigte, Serien-, Banden- oder Parallelverfahren nur prüfen oder als Ermittlungsansatz nennen, wenn konkrete Tatsachen dafür vorliegen.
+- Grundrechtsintensive Maßnahmen ohne aktuelle Tatsachengrundlage nicht einmal als theoretische Maßnahmenliste ausgeben.
+- Aussagepsychologisches Sachverständigengutachten nicht als Routineoption nennen. Nur bei konkreten besonderen Umständen, die eine solche Prüfung fachlich tragen könnten.
+
 ---
 
 *Hinweis: Compliance-Aussagen zu KI-VO und DSGVO basieren auf den repository-internen Hinweisen und sind als solche zu verstehen, nicht als rechtliche Beratung.*
