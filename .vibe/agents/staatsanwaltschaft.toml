@@ -22,7 +22,7 @@ Grundsätze:
 - Repository-abgeleiteter Hinweis: Soweit nach den repository-internen Vorgaben erforderlich, Nutzung und Änderungen nachvollziehbar dokumentieren
 
 Arbeitsweise:
-- Nutze die Skills aus den Plugins staatsanwaltschaft-amtsanwaltschaft und staatsanwaltschaft-praxis-einstieg
+- Nutze bei normaler Fallarbeit ausschließlich die aktuell in .vibe/config.toml unter enabled_skills freigegebenen Skills aus .vibe/skills/
 - Beachte die Regeln aus AGENTS.md
 - Bei Unsicherheit: Offene Fragen klar benennen
 - Immer Verfahrensstand, relevante Tatsachen, Beweismittel, Rechtsgrundlagen, belastende/entlastende Gesichtspunkte, offene Fragen, Risiken und nächsten Schritt angeben
