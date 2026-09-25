@@ -97,6 +97,7 @@ description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- 
 - Deshalb keine pauschale Aussage des Inhalts, Betrug sei immer strafantragsunabhängig.
 - Kommen die Voraussetzungen des Paragraf 247 StGB in Betracht (Verletzung eines Angehörigen, des Vormunds oder Betreuers oder häusliche Gemeinschaft zwischen Verletztem und Täter; Verfolgung nur auf Antrag), sind Strafantrag und Fristen gesondert zu prüfen und aktenkundig zu entscheiden.
 - Bei möglicher Geringwertigkeit ist die entsprechende Anwendung des Paragraf 248a StGB auf den konkreten Betrugsfall gesondert zu prüfen: Verfolgung nur auf Antrag, es sei denn, die Strafverfolgungsbehörde hält wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten. Keine starre Wertgrenze als Prüfungsmaßstab verwenden, solange sie nicht anhand belastbarer aktueller Rechtsprechung verifiziert wurde.
+- Der vereinbarte Kaufpreis darf nicht automatisch als alleiniger Maßstab dafür verwendet werden, ob die entsprechende Anwendung des Paragraf 248a StGB ausscheidet. Insbesondere darf nicht allein aus „Kaufpreis 4.000 Euro“ geschlossen werden, es liege kein Anhaltspunkt für Geringwertigkeit. Die konkrete betrugsspezifische Bezugsgröße und eine gegebenenfalls heranzuziehende Wertgrenze sind vor einer tragenden rechtlichen Bewertung anhand aktueller, verifizierter Rechtsprechung zu prüfen. Keine ungesicherte Bezugsgröße als feststehende Dogmatik aufnehmen.
 
 ### Paragraf 263 Absatz 5 StGB: Gewerbsmäßiger Bandenbetrug
 
@@ -121,7 +122,7 @@ Jedes Beweismittel ist einem konkreten Beweisthema zuzuordnen. Keine Maßnahme n
 | Zeugen | konkrete Wahrnehmungen und Äußerungen zu Täuschung, Verfügung oder Kenntnisstand |
 
 - Ein Sachverständigengutachten ist nicht immer zwingend; es ist nur zu empfehlen, soweit Echtheit, Zustand oder Wert mit den übrigen Beweismitteln nicht geklärt werden können und das Beweisthema dies tatsächlich erfordert.
-- Formulierungen wie "Gerät sicherstellen" oder "Wohnung durchsuchen" ohne benanntes Beweisthema und Beweisziel sind unzulässig; jede empfohlene Maßnahme benötigt Tatsachengrundlage, Beweisziel und erwartetes Beweismittel.
+- Grundrechtsintensive Zwangs- oder verdeckte Ermittlungsmaßnahmen dürfen nur dann als Ermittlungsoption genannt oder geprüft werden, wenn der konkrete Sachverhalt bereits eine aktuelle Tatsachengrundlage dafür bietet. Fehlt eine solche Grundlage, werden solche Maßnahmen nicht vorsorglich oder beispielhaft aufgelistet. Jede empfohlene Maßnahme benötigt Tatsachengrundlage, Beweisziel und erwartetes Beweismittel; Formulierungen ohne benanntes Beweisthema und Beweisziel sind unzulässig.
 
 ## Belastende und entlastende Indizien
 
@@ -132,6 +133,7 @@ Mögliche belastende Prüffragen:
 - Liegen wiederholte falsche Echtheitsbehauptungen gegenüber mehreren Geschädigten vor?
 - Ist eine Kenntnis des Beschuldigten von der Herkunft oder Beschaffenheit der Ware nachweisbar?
 - Ist die Preisgestaltung auffällig, etwa weit unter Marktwert bei behaupteter Originalware?
+- Eine Preisauffälligkeit darf nur als Indiz benannt oder gewertet werden, wenn eine belastbare tatsächliche Vergleichsgrundlage vorhanden ist, insbesondere ein nachvollziehbarer Markt-, Verkehrs- oder Vergleichswert. Fehlt diese Tatsachengrundlage: keine Preisauffälligkeit behaupten, keinen Preisunterschied als Vorsatzindiz benennen, die Wertfrage als offen kennzeichnen. Keine Marktwerte erfinden.
 - Sind die Einlassungen des Beschuldigten widersprüchlich?
 - Ist eine gleiche Vorgehensweise in tatsächlich belegten weiteren Fällen feststellbar?
 
@@ -169,7 +171,7 @@ Die vorgeschlagenen Ermittlungsmaßnahmen sind vier Kategorien zuzuordnen:
 Bei jeder Zwangs- oder verdeckten Ermittlungsmaßnahme sind die konkrete Rechtsgrundlage, Tatsachenbasis, das Beweisziel, die Anordnungskompetenz, eine etwaige Eilkompetenz, die Verhältnismäßigkeit sowie gesetzliche Bestätigungs-, Befristungs- und Benachrichtigungspflichten maßnahmenspezifisch zu prüfen. Ein Richtervorbehalt darf nur angenommen werden, soweit die einschlägige Vorschrift ihn vorsieht; gesetzliche Ausnahmen und Sonderregelungen sind gesondert zu beachten.
 
 - Keine erfundenen Fristen. Soweit eine praktische Frist sinnvoll ist, aber nicht gesetzlich oder von behördlicher Seite vorgegeben ist, gilt: Frist und Wiedervorlage nach sachgerechter Festlegung durch den Dezernenten.
-- Keine pauschale Durchsuchung, keine pauschale Beschlagnahme, keine pauschale Geräteauswertung; jede dieser Maßnahmen setzt die oben genannten Prüfpunkte voraus.
+- Grundrechtsintensive Zwangs- oder verdeckte Ermittlungsmaßnahmen ohne aktuelle Tatsachengrundlage werden nicht vorsorglich oder beispielhaft aufgelistet; jede solche Maßnahme setzt die oben genannten Prüfpunkte voraus.
 
 ## Verdachtsgrade und Abschlussentscheidung
 
