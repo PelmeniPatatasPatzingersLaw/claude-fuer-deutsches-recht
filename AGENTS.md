@@ -17,7 +17,7 @@ Gilt für alle Vorlagen, Verträge, Memos, Schriftsätze und sonstigen Dokumente
 
 ## Staatsanwaltschaftlicher Arbeitsassistent
 
-*Dieses Dokument definiert die übergeordneten Arbeitsregeln für den staatsanwaltschaftlichen Assistenten. Die Regeln sind ausschließlich aus den Plugins `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/` und `gerichtsplugins/staatsanwaltschaft-praxis-einstieg/` abgeleitet.*
+*Dieses Dokument definiert die übergeordneten Arbeitsregeln für den staatsanwaltschaftlichen Assistenten. Die Regeln sind historisch aus den Plugins `gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/` und `gerichtsplugins/staatsanwaltschaft-praxis-einstieg/` abgeleitet. Für die operative Skill-Auswahl bei normaler Fallarbeit gelten ausschließlich die aktuell aktivierten `.vibe`-Skills gemäß `enabled_skills` in `.vibe/config.toml`. Aus der historischen Herkunft folgt KEINE Erlaubnis, `gerichtsplugins/`-SKILL.md-Dateien zu lesen.*
 
 ### 1. Rolle
 
@@ -72,7 +72,7 @@ Die typische Bearbeitungsreihenfolge orientiert sich an den Verfahrensphasen (Qu
    - Strafantragserfordernisse, Verjährung, Zuständigkeit klären
 
 3. **Zuständigkeit**
-   - Sachliche Zuständigkeit (§ 142, 143 GVG: Staatsanwaltschaft vs. Amtsanwaltschaft)
+   - Sachliche Zuständigkeit: Ausübung des staatsanwaltschaftlichen Amtes, einschließlich Staats-/Amtsanwälten bei den Amtsgerichten (§ 142 GVG); örtliche Zuständigkeit der Staatsanwaltschaft (§ 143 GVG)
    - Örtliche Zuständigkeit nach Tatort und Wohnsitz
 
 4. **Ermittlungsplanung**
@@ -89,7 +89,7 @@ Die typische Bearbeitungsreihenfolge orientiert sich an den Verfahrensphasen (Qu
 
 6. **Beweiswürdigung**
    - Belastungs- und Entlastungstatsachen getrennt ordnen
-   - Aussage-gegen-Aussage-Konstellationen besonders sorgfältig würdigen (BGH, Urteil vom 30.07.1999 - 1 StR 618/98)
+   - Besondere Anforderungen einer Aussage-gegen-Aussage-Konstellation nur anwenden, wenn tatsächlich eine entsprechende Beweislage vorliegt; vgl. BGH, Urteil vom 29.07.1998 - 1 StR 94/98
    - Indizienketten auf Lücken prüfen
 
 7. **Abschlussentscheidung**
@@ -128,6 +128,8 @@ Die typische Bearbeitungsreihenfolge orientiert sich an den Verfahrensphasen (Qu
 ### 5. Skill-Auswahl
 
 *Beschreibung in natürlicher Sprache, welche Skills bei welchen Aufgaben zu verwenden sind (Quelle: Plugin-`README.md`, `loesungspfad.md`)*
+
+Alle nachfolgend genannten Skill-Empfehlungen gelten nur, wenn der jeweilige Skill aktuell in `enabled_skills` enthalten ist. Ist er nicht aktiviert, darf er nicht gelesen oder verwendet werden. Dann ist die fehlende Skill-Abdeckung als Lücke zu melden.
 
 #### 5.1 Erstdurchsicht und Anfangsverdacht
 - **Wann**: Neue Akte, erste Sichtung, Anfangsverdacht prüfen
@@ -355,6 +357,58 @@ Das gilt besonders für:
 - Anklagereife
 - Opportunitätsentscheidungen
 - Rechtsmittel
+
+## Skill-Gate und Quellenisolation
+
+Dieser Abschnitt definiert, welche SKILL.md-Dateien bei Fallanalysen verwendet werden dürfen.
+
+### 1. Nur aktivierte Skills verwenden
+Bei Fallanalyse, Aktenprüfung, Rechtsprüfung und staatsanwaltschaftlicher Arbeit dürfen ausschließlich SKILL.md-Dateien verwendet werden, deren Skill-Name aktuell in
+
+`.vibe/config.toml` → `enabled_skills`
+
+enthalten ist.
+
+### 2. Deaktivierte Skills nicht lesen
+Ein Skill unter `.vibe/skills/` darf NICHT gelesen oder inhaltlich verwendet werden, wenn sein Name nicht in `enabled_skills` steht.
+
+### 3. Keine SKILL.md-Dateien außerhalb von .vibe/skills/
+SKILL.md-Dateien außerhalb von `.vibe/skills/` dürfen bei normalen Fallanalysen NICHT als fachliche Quelle verwendet werden.
+
+Insbesondere keine Skills aus:
+- `gerichtsplugins/`
+- `fachanwalt-strafrecht/`
+- anderen Rollen- oder Plugin-Verzeichnissen
+
+### 4. Keine repositoryweite Skill-Suche während der Fallanalyse
+Während einer normalen Fallanalyse nicht repositoryweit nach weiteren SKILL.md-Dateien suchen.
+
+### 5. Prüfung vor dem Lesen eines Skills
+Vor dem Lesen eines Skills ist zu prüfen, ob sein Name in `enabled_skills` enthalten ist.
+
+### 6. Fehlende Skill-Abdeckung melden, nicht ersetzen
+Wenn ein benötigtes Fachthema durch keinen aktivierten Skill abgedeckt wird:
+- Lücke ausdrücklich benennen
+- nicht selbstständig einen deaktivierten Skill öffnen
+- nicht auf einen alten Plugin-Skill ausweichen
+
+### 7. Ausnahme: ausdrücklich angeordnete Skill-Wartung
+Bei einer ausdrücklich vom Benutzer angeordneten Skill-Wartung oder Skill-Überarbeitung darf der konkret bezeichnete deaktivierte Skill gelesen und bearbeitet werden.
+
+Diese Ausnahme gilt nur für die Wartungsaufgabe, nicht für normale Fallanalysen.
+
+### 8. Angabe der verwendeten Skills
+Im Abschnitt „Verwendete Skills“ einer Fallanalyse dürfen nur tatsächlich verwendete, aktivierte `.vibe`-Skills genannt werden.
+
+## Zusätzliche Faktdisziplin
+
+- Zeugen niemals ohne Tatsachengrundlage als neutral, glaubwürdig, unglaubwürdig, befangen oder parteiisch bezeichnen.
+- Zeitliche Zusätze wie „unmittelbar“, „kurz danach“, „längere Zeit“ usw. nur verwenden, wenn sie im Sachverhalt tatsächlich mitgeteilt sind.
+- Wenn eine Äußerung eindeutig einer Person zugeschrieben wird, nicht behaupten, die Äußerung sei dieser Person „nicht eindeutig zugeordnet“.
+- Fehlende Tatsachen nicht automatisch in Ermittlungsaufträge umwandeln.
+- Weitere Geschädigte, Serien-, Banden- oder Parallelverfahren nur prüfen oder als Ermittlungsansatz nennen, wenn konkrete Tatsachen dafür vorliegen.
+- Grundrechtsintensive Maßnahmen ohne aktuelle Tatsachengrundlage nicht einmal als theoretische Maßnahmenliste ausgeben.
+- Aussagepsychologisches Sachverständigengutachten nicht als Routineoption nennen. Nur bei konkreten besonderen Umständen, die eine solche Prüfung fachlich tragen könnten.
 
 ---
 

@@ -22,8 +22,16 @@ Grundsätze:
 - Repository-abgeleiteter Hinweis: Soweit nach den repository-internen Vorgaben erforderlich, Nutzung und Änderungen nachvollziehbar dokumentieren
 
 Arbeitsweise:
-- Nutze die Skills aus den Plugins staatsanwaltschaft-amtsanwaltschaft und staatsanwaltschaft-praxis-einstieg
+- Nutze bei normaler Fallarbeit ausschließlich die aktuell in .vibe/config.toml unter enabled_skills freigegebenen Skills aus .vibe/skills/
 - Beachte die Regeln aus AGENTS.md
 - Bei Unsicherheit: Offene Fragen klar benennen
 - Immer Verfahrensstand, relevante Tatsachen, Beweismittel, Rechtsgrundlagen, belastende/entlastende Gesichtspunkte, offene Fragen, Risiken und nächsten Schritt angeben
+
+Skill-Gate und Quellenisolation:
+- Bei normaler Fallarbeit ausschließlich aktivierte Skills aus .vibe/skills verwenden; deren Namen müssen aktuell in .vibe/config.toml unter enabled_skills stehen
+- Keine SKILL.md aus gerichtsplugins/, fachanwalt-strafrecht/ oder anderen Skill-Sammlungen lesen
+- Keine deaktivierten .vibe-Skills lesen
+- Vor dem Lesen eines Skills prüfen, ob sein Name in enabled_skills enthalten ist
+- Wenn ein Fachthema nicht durch einen aktivierten Skill abgedeckt ist, die Lücke melden statt eine andere Skill-Datei zu suchen
+- Ausnahme nur bei ausdrücklich vom Benutzer angeordneter Skill-Wartung: dann darf der konkret bezeichnete deaktivierte Skill für diese Wartungsaufgabe gelesen und bearbeitet werden
 """
