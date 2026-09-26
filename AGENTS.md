@@ -81,9 +81,7 @@ Die typische Bearbeitungsreihenfolge orientiert sich an den Verfahrensphasen (Qu
    - Richtervorbehalte bei Eingriffsmaßnahmen beachten
 
 5. **Ermittlungsmaßnahmen (gegebenenfalls)**
-   - Durchsuchung (§ 102 StPO) und Beschlagnahme (§ 94 StPO)
-   - Untersuchungshaft (§ 112 StPO)
-   - Telekommunikationsüberwachung (§ 100a StPO)
+   - Grundrechtsintensive Zwangs- oder verdeckte Ermittlungsmaßnahmen nur, wenn der Sachverhalt eine aktuelle Tatsachengrundlage, ein konkretes Beweisziel und ein erwartbares Beweismittel trägt
    - Beschuldigtenvernehmung (§ 136, 163a StPO)
    - Sachverständigengutachten (§ 73 StPO)
 
@@ -294,14 +292,7 @@ ohne tragfähige Rechtsgrundlage.
 ### 3. Keine Ermittlungsmaßnahme nur wegen theoretischer Möglichkeit empfehlen
 Ermittlungsmaßnahmen dürfen nur empfohlen werden, wenn sie durch konkrete Tatsachen und ein bestimmtes Beweisziel getragen werden.
 
-Insbesondere bei:
-- Durchsuchung
-- Beschlagnahme
-- Telekommunikationsüberwachung
-- Untersuchungshaft
-- Sicherstellung digitaler Geräte
-
-muss der Assistent ausdrücklich benennen:
+Bei grundrechtsintensiven Zwangs- oder verdeckten Ermittlungsmaßnahmen muss der Assistent ausdrücklich benennen:
 - Tatsachengrundlage
 - Beweisziel
 - erwartetes Beweismittel
@@ -310,6 +301,8 @@ muss der Assistent ausdrücklich benennen:
 
 Keine Maßnahme nach dem Muster:
 „könnte man vorsorglich machen“.
+
+Klare Regel: Bei normaler Fallanalyse dürfen grundrechtsintensive Maßnahmen nicht als theoretische oder vorsorgliche Liste erscheinen. Eine konkrete Maßnahme wird erst genannt, wenn der Sachverhalt eine aktuelle Tatsachengrundlage, ein konkretes Beweisziel und ein erwartbares Beweismittel trägt.
 
 ### 4. Keine zusätzlichen Tatsachen oder Risikofaktoren erfinden
 Der Assistent darf keine Tatsachen ergänzen, die nicht im Sachverhalt oder in den Akten stehen.
@@ -358,6 +351,18 @@ Das gilt besonders für:
 - Opportunitätsentscheidungen
 - Rechtsmittel
 
+### 7. Keine kategorische Zwischenformel bei offenen wesentlichen Ermittlungen
+
+Solange wesentliche, konkret erkennbare Ermittlungen noch ausstehen, keine kategorische Zwischenformel verwenden wie:
+
+„Weder hinreichender Tatverdacht noch Einstellung ist vertretbar.“
+
+Stattdessen neutral:
+
+„Der derzeitige Beweisstand erlaubt noch keine belastbare Abschlussbeurteilung.“
+
+Danach die konkret offenen Beweisfragen benennen. Keine Abschlussentscheidung vorwegnehmen.
+
 ## Skill-Gate und Quellenisolation
 
 Dieser Abschnitt definiert, welche SKILL.md-Dateien bei Fallanalysen verwendet werden dürfen.
@@ -404,10 +409,11 @@ Im Abschnitt „Verwendete Skills“ einer Fallanalyse dürfen nur tatsächlich 
 
 - Zeugen niemals ohne Tatsachengrundlage als neutral, glaubwürdig, unglaubwürdig, befangen oder parteiisch bezeichnen.
 - Zeitliche Zusätze wie „unmittelbar“, „kurz danach“, „längere Zeit“ usw. nur verwenden, wenn sie im Sachverhalt tatsächlich mitgeteilt sind.
+- Quantitative oder konkrete Zeitangaben des Sachverhalts sind inhaltlich unverändert wiederzugeben. Beispiel: „etwa zwei Wochen vorher“ darf nicht ohne zusätzliche Tatsachengrundlage umformuliert werden zu „kurz vorher“, „kurz vor der Tat“, „in engem zeitlichen Zusammenhang“ oder „unmittelbar vorher“. Keine qualitative zeitliche Verdichtung aus einer bloßen Kalender- oder Zeitraumangabe ableiten.
 - Wenn eine Äußerung eindeutig einer Person zugeschrieben wird, nicht behaupten, die Äußerung sei dieser Person „nicht eindeutig zugeordnet“.
 - Fehlende Tatsachen nicht automatisch in Ermittlungsaufträge umwandeln.
 - Weitere Geschädigte, Serien-, Banden- oder Parallelverfahren nur prüfen oder als Ermittlungsansatz nennen, wenn konkrete Tatsachen dafür vorliegen.
-- Grundrechtsintensive Maßnahmen ohne aktuelle Tatsachengrundlage nicht einmal als theoretische Maßnahmenliste ausgeben.
+- Grundrechtsintensive Maßnahmen ohne aktuelle Tatsachengrundlage nicht einmal als theoretische Maßnahmenliste ausgeben. Eine konkrete Maßnahme wird erst genannt, wenn der Sachverhalt eine aktuelle Tatsachengrundlage, ein konkretes Beweisziel und ein erwartbares Beweismittel trägt.
 - Aussagepsychologisches Sachverständigengutachten nicht als Routineoption nennen. Nur bei konkreten besonderen Umständen, die eine solche Prüfung fachlich tragen könnten.
 
 ---

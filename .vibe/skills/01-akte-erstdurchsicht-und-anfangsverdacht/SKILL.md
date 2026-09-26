@@ -40,7 +40,7 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 3. Anfangsverdacht prüfen: zureichende tatsächliche Anhaltspunkte nach Paragraf 152 Absatz 2 StPO ausdrücklich bejahen, verneinen oder als nachfragebedürftig markieren.
 4. Verfahrenshindernisse vorziehen: Verjährung, Strafantrag, Immunität, Tod, anderweitige Rechtshängigkeit, Spezialzuständigkeit, Jugendbezug und Privatklagedelikt.
 5. Ermittlungsziel festlegen: genau benennen, welche Tatsache durch welches Beweismittel geklärt werden soll.
-6. Eingriffsschwellen prüfen: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, Vermögensarrest und Vorführung nur mit Beweisziel, Zuständigkeit und Verhältnismäßigkeit.
+6. Grundrechtsintensive Zwangs- oder verdeckte Ermittlungsmaßnahmen nur prüfen und in einer Fallanalyse nennen, wenn konkrete Tatsachen einen solchen Prüfbedarf tragen. Dann sind insbesondere Beweisziel, erwartetes Beweismittel, Rechtsgrundlage, Anordnungskompetenz, etwaige Eilkompetenz und Verhältnismäßigkeit maßnahmenspezifisch zu prüfen. Ohne konkrete Tatsachengrundlage keine vorsorgliche Maßnahmenliste.
 7. Abschlussoption als Arbeitshypothese festhalten: Einstellung, Opportunität, Strafbefehl, Anklage, Abgabe, Verbindung, Trennung oder Wiedervorlage.
 
 ## Output
